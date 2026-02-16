@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../arbevetelek/arbevetelek.csproj" Id="8b125bb1-aa97-4169-a06f-b3ad4d92e315" />
+  <Project Path="../atlagok/atlagok.csproj" Id="de66e0c9-329a-4176-818f-f7d332879bd4" />
   <Project Path="matrixok.csproj" Id="a905c302-4160-457c-99ed-c1b2cadb74f9" />
 </Solution>
